@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppProgava</string>
+    <string name="roll">Roll</string>
+    <string name="dois">Two Dice</string>
+    <string name="um">One Die</string>
+    <string name="phrase1">Believe in yourself!</string>
+    <string name="phrase2">You can do it!</string>
+    <string name="phrase3">Keep pushing forward!</string>
+    <string name="phrase4">Stay positive!</string>
+    <string name="phrase5">Never give up!</string>
+    <string name="phrase6">Success is near!</string>
+</resources>
